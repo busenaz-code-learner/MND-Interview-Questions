@@ -60,4 +60,4 @@ Bu servise bir kaplumbağanın ismi gönderildiğinde, diğer kaplumbağalar bu 
 - Eğer verilen kaplumbağa mevcutsa, “OK” mesajı döndürülmelidir.
 - Eğer kaplumbağa mevcut değilse, hata mesajı ve mevcut kaplumbağaların isimleri döndürülmelidir.
 
-![Sonuç:](path/to/your-gif.gif)
+![Sonuç:](turtle_follow.gif)
